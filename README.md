@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Rafaeles24/Rafaeles24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <header>
+        <h1 style="text-align: center; font-family: 'calibri';"> Hi, I'm Plantota</h1>
+        <h3 style="text-align: center; font-family: 'calibri';">I am a junior developer from Lima, I like to learn and work in a team. My social media:</h3>
+        <div class="social-media">
+            <ul>
+                <li>        
+                    <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="" style="width: 50px;">
+                </li>
+            </ul>
+        </div>
+    </header>
