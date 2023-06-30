@@ -1,5 +1,12 @@
 <div id="header" align="center">
 <img src="https://lh3.googleusercontent.com/fife/APg5EObGKpgdzcBiTp9GQl_5xd0TNyfmBNittsTk8MICIZ0Jso_vGdzbt47NAK_r-oiNyzQ8apqtLFBYBxU-g35DJqciozEvWbwGU1nd2g8n_fm5mGAjv8qWu5xrQGJxjsA0K45p8bgxqlgumWzeUxIoUvLMppiIB-s-KMfoQ1auPhT0V5qKKMhQR0hl59rxsPD9VKJZgRfhA_mDVswU8bEWhQc3xZz71fu0C-FkndFwYHLvbYk6arz0gb0D37KT7ZJgEENAkZD-1ZUZzdbwJv96urB3VLxtlg_h4y8RtMVrEp6o5R_PgbUuRNwBgfku_YBhMuI-_mQ_mv2OJonORWrcjJ2B8HhvVy8CdGy9ZSeZixaOKmWi9puZoLSW7PPvumD8uEp4Sow9Y9ZC5zZrfM5li-2rQy0j_1d4Kas6bN6Ko2c4Lu3sW2oQ5WNzakfD1qMJSJwAVwV8xIgc9CIBKkDYxi1KKUQsTzkBO3wK3UYWMt5UXZC8VyZA44LDuur24OOBmXgPoBWibRVnHpsVBFtZYfFHGwAQoj0I-pLsOR3kPs9DRFHgSXLNP8jFHAhpjNSApJUinMF5yL4RkXmLXRiya99UP9a1gcQ9yy81Xw0qqRZwCDc6f54vLRYTbrwkRT5dTDCyXC09iylqX8fBCJVelZ88IRomHv1brJdNF9rv5IWeyNF4QOceFoFkRocM6TzRCxlVBWjA-iwD6Z6TuQ0OGZoxGI-3mWOa2mCpdv4m2aqKLWoHEGmHcfFRhfzRY7N5RnCGJcdYt0c5uK7NnFXrBDV3r-1T00XOox1PbJ4Zgq16KyXn6GIzTjqdgL9ETlzcFUeHDOLkbAXBePokhrjtvTwh66HKSa5VsieIv_WEwsXfFO5eB3wDRnjPNCMzPgE6-UcO1HXfGD0MMwKi5tz46guIa99Nt-JFSnEHVWMvwQ7yp903eEmhABX-UmVD9v_1EJIDYnw-q-RX5XeUbTIDx4jFzhk_8rl79hVyj8W1or4dCs7ZMmEOvUzwlxzTa_E31Wc0NW9QDljtCGNhM0ZMRrZ6sHuMzxQCnuqydnxUE6Rd4gsxJStbncSYo9AA_6vQWjAmWysah5QThqwc_IJ_aO--2We7dh8Tm4zG7cHgxl2aldKp1vpUqX_bVf2IOwQkIyau26FAIrwHaPmlBj2uYQniyKMazUnU3BDgJrBLNca9E5YE86N_xo9iOoEM49xpIhTghVwMYWvSS7QlsXlAeavmzlR5brFtOYS-ybkl5PAdsFlC4YanwrZEzIa1LlwVZyRcMnUHR8FkRdx0gBx3lr-ygIjM4NlL4OL3OcXeT-BPHi_dA9Dz127UNwhSsiO8s_ezKJT1mwWtUx_lrbUFziCoz3fO4YJHZXig-Eji_XYDJ2Io9LPtA-pAbAm9fghKgkWCYmKzTx7rjDekR8F9bYJ0aOHlzU4tCdqZC8jDsDAeQEK_HloR_RM4fk0aFZcYj88SyNREDdCRaYCCOzQvuMBCRtmbGC4INePeET21cu5rz0XS95826LSHJarhVADrUfG-PO3bhVeB3r8=w1920-h969" alt="">
-<h3>A Junior Developer from Peru</h3>
+<h2>A Junior Developer from Peru</h2>
+</div> 
+<div id="socialMedia" align="center">
+  <img src="https://img.shields.io/badge/%40rafaeles24-%23C13584?style=for-the-badge&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Frafaeles24%2F" alt="">
+  <img src="https://img.shields.io/badge/%2B51%20937%20215%20511-%2325D366?style=for-the-badge&logo=whatsApp&logoColor=white" alt="">
+  <img alt="Static Badge" src="https://img.shields.io/badge/rafael24__es%40hotmail.com-%23127CD6?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/plantotaa-%237289da?style=for-the-badge&logo=discord&logoColor=white" alt="">
+</div>
 
-</div>  
+
